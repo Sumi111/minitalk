@@ -33,3 +33,9 @@ You must create a communication program in the form of a client and a server.
 ## **Bonus Part**
 * The server confirms every signal received by sending a signal to the client.
 * Unicode characters should be supported.
+
+### Output for mandatory part
+![pic1](https://github.com/Sumi111/minitalk/blob/main/Images/Output_mandatory.png)
+
+### Output for bonus part
+![pic2](https://github.com/Sumi111/minitalk/blob/main/Images/output_bonus.png)
